@@ -8,8 +8,8 @@ Learn how to use Dev Tools!
 
 ## Instructions
 
-- [ ] Watch this video on [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw)
-- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
+- [x] Watch this video on [Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw)
+- [x] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
 #### Code
 - [ ] Use HTML, CSS, and JS to code your design inside `index.html`
