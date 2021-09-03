@@ -1,2 +1,22 @@
 
 /* css */
+.header {
+  background-color: maroon;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.vsc {
+  text-align: left;
+  font-size: 20px;
+  font-family: cursive;
+  color: navy;
+}
+
+.uses {
+  text-align: justify;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: black;
+}
