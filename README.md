@@ -12,9 +12,9 @@ Learn how to use Dev Tools!
 - [x] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
 #### Code
-- [ ] Use HTML, CSS, and JS to code your design inside `index.html`
-- [ ] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
-- [ ] Style your page with CSS using a `style` tag in the `head`
+- [x] Use HTML, CSS, and JS to code your design inside `index.html`
+- [x] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
+- [x] Style your page with CSS using a `style` tag in the `head`
 - [ ] Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
 - [ ] Using an unordered list, write three *other* things you can do with the Dev Tools.
 - [ ] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”). Explain:

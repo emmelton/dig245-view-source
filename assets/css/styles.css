@@ -1,10 +1,14 @@
 
 /* css */
+
+
 .header {
-  background-color: maroon;
-  text-align: center;
-  font-size: 30px;
   color: white;
+  text-align: center;
+  background-color: #5DB2D7;
+  background-image: linear-gradient(130deg, #5DB2D7, #F38484);
+  padding: 40px 60px 40px 60px;
+  font-size: 35px;
 }
 
 .vsc {
@@ -57,7 +61,22 @@
 
 .nav {
   text-align: center;
-  font-size: 22px;
-  font-family:
+  font-family: sans-serif;
   color: white;
+  background-color: #C3C3C3;
+  background-image: repeating-linear-gradient(110deg, #C3C3C3, #F2F2F2);
+  float: center;
+  font-size: 22px;
+  padding: 5px 7px 5px 7px;
+}
+
+.navt {
+  display: inline;
+  background-color: #C3C3C3;
+  background-image: repeating-linear-gradient(110deg, #C3C3C3, #F2F2F2);
+  padding: 12px;
+}
+
+li a:hover {
+  background-color: #F5C2C2;
 }
