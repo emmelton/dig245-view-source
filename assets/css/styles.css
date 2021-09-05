@@ -88,3 +88,15 @@ li a:hover {
 .backing {
   background-color: #E2E2E2;
 }
+
+thead {
+  text-align: center;
+  font-size: 13px;
+}
+
+/* table */
+table, td {
+  border: 1px solid black;
+  text-align: left;
+  font-family: monospace;
+}
