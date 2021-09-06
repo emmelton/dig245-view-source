@@ -11,50 +11,6 @@
   font-size: 35px;
 }
 
-/* how to open up dev tools designing
-.vscl {
-  text-align: left;
-  font-size: 15px;
-  font-family: monospace;
-  color: black;
-}
-
-/* image designs
-.wsj {
-  align-items: center;
-  font-family: sans-serif;
-  font-size: 10px;
-
-}
-
-.wsjc {
-  align-items: center;
-  font-family: sans-serif;
-  font-size: 10px;
-}
-
-/* page titles
-.uses {
-  text-align: center;
-  font-size: 20px;
-  font-family: sans-serif;
-  color: black;
-  background-color: aliceblue;
-  padding: 5px 5px 5px 5px;
-}
-
-/* console example info design
-.txtad {
-  font-family: monospace;
-  font-size: 18px;
-}
-
-/* use dev tools (udt) designs
-.udt {
-  font-family: monospace;
-  font-size: 15px;
-}
-
 /* navigation menu */
 .nav {
   text-align: center;
