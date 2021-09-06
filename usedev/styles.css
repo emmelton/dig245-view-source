@@ -1,0 +1,21 @@
+
+/* page titles */
+
+.uses {
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: black;
+  background-color: aliceblue;
+  padding: 5px 5px 5px 5px;
+}
+
+/* use dev tools (udt) designs */
+.udt {
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.backing {
+  background-color: #E2E2E2;
+}
